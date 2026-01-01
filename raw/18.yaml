@@ -1,5 +1,5 @@
 payload:
-  - 'ip.sb'
-  - 'javdb.com'
-  - 'camcaps.io'
-  - 'pronhub.com'
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,camcaps.io
+  - DOMAIN-SUFFIX,pronhub.com
