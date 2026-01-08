@@ -234,7 +234,7 @@ rules:
   - RULE-SET,XPTV,直接连接
   - RULE-SET,Download,直接连接
   - RULE-SET,AppleCN,直接连接
-  - RULE-SET,18plus,自选成人
+  - RULE-SET,Custom18,自选成人
   - RULE-SET,AI,人工智能
   - DOMAIN-KEYWORD,speedtest,网络测试
   - RULE-SET,Speedtest,网络测试
@@ -306,7 +306,7 @@ rule-providers:
   Facebook:       {<<: *BehaviorDN, url: https://git.imee.me/https://github.com/666OS/rules/raw/release/mihomo/domain/Facebook.mrs}
   Proxy:          {<<: *BehaviorDN, url: https://git.imee.me/https://github.com/666OS/rules/raw/release/mihomo/domain/Proxy.mrs}
   China:          {<<: *BehaviorDN, url: https://git.imee.me/https://github.com/666OS/rules/raw/release/mihomo/domain/China.mrs}
-  18plus:         {<<: *BehaviorDNY, url: https://raw.githubusercontent.com/ikangi/ikangi.github.io/refs/heads/main/raw/18plus.yaml}
+  Custom18:       {<<: *BehaviorDNY, url: https://raw.githubusercontent.com/ikangi/ikangi.github.io/refs/heads/main/raw/Custom18.yaml}
 
   # IP规则
   AdvertisingIP:  {<<: *BehaviorIP, url: https://git.imee.me/https://github.com/666OS/rules/raw/release/mihomo/ip/Advertising.mrs}
