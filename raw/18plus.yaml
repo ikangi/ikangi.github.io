@@ -33,5 +33,7 @@ payload:
   # - NETWORK,TCP
 
   # 示例规则：
-  - DOMAIN-SUFFIX,mysite.com
-  - DOMAIN-KEYWORD,mykeyword
+  - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,camcaps.io
+  - DOMAIN-SUFFIX,pronhub.com
